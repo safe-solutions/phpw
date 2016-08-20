@@ -1,0 +1,6 @@
+@phpw-preview-0.1.0
+echoSomething() {
+	echo 'hello from PHPW'
+}
+
+echoSomething()
