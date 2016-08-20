@@ -1,3 +1,11 @@
+***DON'T FORGET TO CREATE .htaccess***
+```
+<FilesMatch ".phpw$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+```
+
 Write pretty code with PHPW!
 
 Try PHPW now: http://prettybits.ru/phpw.php
