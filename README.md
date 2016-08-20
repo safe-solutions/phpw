@@ -3,6 +3,7 @@ Write pretty code with PHPW!
 Try PHPW now: http://prettybits.ru/phpw.php
 
 `ClassName = {` -> `class ClassName {`
+
 `_` -> `protected`
 `__` -> `private`
 `(($k,$v) in $items)` -> `foreach ($items as $k=>$v)`
