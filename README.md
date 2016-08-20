@@ -1,10 +1,4 @@
-***DON'T FORGET TO CREATE .htaccess***
-```
-<FilesMatch ".phpw$">
-Order Allow,Deny
-Deny from all
-</FilesMatch>
-```
+***RENAME htaccess.txt to .htaccess***
 
 Write pretty code with PHPW!
 
